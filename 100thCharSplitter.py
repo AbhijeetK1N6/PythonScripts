@@ -1,6 +1,7 @@
 import sys
 import os
-
+#Code By : K1N6
+#Source Code available on GitHub : https://github.com/AbhijeetK1N6/PythonScripts/edit/main/100thCharSplitter.py
 def split_line(input_file, output_file, split_length=100):
     try:
         # Open the input file and read the single line
@@ -18,7 +19,7 @@ def split_line(input_file, output_file, split_length=100):
     except Exception as e:
         print(f"An error occurred: {e}")
 #Code By : K1N6
-#Source Code available on GitHub : 
+#Source Code available on GitHub : https://github.com/AbhijeetK1N6/PythonScripts/edit/main/100thCharSplitter.py
 def main():
     if len(sys.argv) != 2:
         print("Usage: Drag and drop a file onto this script.")
@@ -30,3 +31,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+#Code By : K1N6
+#Source Code available on GitHub : https://github.com/AbhijeetK1N6/PythonScripts/edit/main/100thCharSplitter.py
